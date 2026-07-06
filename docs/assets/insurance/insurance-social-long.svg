@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1600" viewBox="0 0 900 1600">
+  <rect width="900" height="1600" fill="#f5ebe5"/>
+  <rect x="56" y="56" width="788" height="1488" rx="34" fill="#fffdfb" stroke="#ead9cf" stroke-width="2"/>
+  <text x="108" y="144" fill="#766c66" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="600">朋友圈科普长图样张</text>
+  <text x="108" y="286" fill="#2f211d" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="68" font-weight="800">一张图看懂</text>
+  <text x="108" y="368" fill="#2f211d" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="68" font-weight="800">家庭保障顺序</text>
+  <text x="108" y="454" fill="#766c66" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="28">先解决风险，再谈收益。</text>
+  <g transform="translate(108 568)">
+    <rect width="684" height="182" rx="24" fill="#f6eee8"/>
+    <circle cx="72" cy="91" r="38" fill="#f2673d"/>
+    <text x="54" y="104" fill="white" font-family="Arial" font-size="34" font-weight="700">1</text>
+    <text x="142" y="86" fill="#2f211d" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="36" font-weight="700">医疗风险</text>
+    <text x="142" y="132" fill="#766c66" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="24">先覆盖高频支出和突发费用。</text>
+  </g>
+  <g transform="translate(108 800)">
+    <rect width="684" height="182" rx="24" fill="#f6eee8"/>
+    <circle cx="72" cy="91" r="38" fill="#2f211d"/>
+    <text x="54" y="104" fill="white" font-family="Arial" font-size="34" font-weight="700">2</text>
+    <text x="142" y="86" fill="#2f211d" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="36" font-weight="700">收入责任</text>
+    <text x="142" y="132" fill="#766c66" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="24">匹配家庭角色和收入周期。</text>
+  </g>
+  <g transform="translate(108 1032)">
+    <rect width="684" height="182" rx="24" fill="#2f211d"/>
+    <circle cx="72" cy="91" r="38" fill="#f2673d"/>
+    <text x="54" y="104" fill="white" font-family="Arial" font-size="34" font-weight="700">3</text>
+    <text x="142" y="86" fill="#fffdfb" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="36" font-weight="700">养老规划</text>
+    <text x="142" y="132" fill="#d8cbc4" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="24">在基础保障之后再做长期规划。</text>
+  </g>
+  <rect x="108" y="1332" width="684" height="110" rx="24" fill="#f2673d"/>
+  <text x="168" y="1398" fill="#fffdfb" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="34" font-weight="700">安澜保障顾问 · 保险教育样张</text>
+  <text x="652" y="1504" fill="#a99a92" font-family="Arial, sans-serif" font-size="30" font-weight="700">05 / 06</text>
+</svg>

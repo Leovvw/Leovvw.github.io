@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900" fill="none">
+  <rect width="1400" height="900" fill="#F5EBE5"/>
+  <circle cx="238" cy="212" r="164" fill="#F2673D" fill-opacity=".12"/>
+  <circle cx="1196" cy="698" r="188" fill="#D9D2FF" fill-opacity=".32"/>
+  <g filter="url(#shadow)">
+    <rect x="172" y="170" width="1056" height="560" rx="38" fill="#FFFDFC"/>
+    <rect x="172" y="170" width="1056" height="560" rx="38" stroke="#E7D7CD" stroke-width="2"/>
+  </g>
+  <rect x="172" y="170" width="356" height="560" rx="38" fill="#2F211D"/>
+  <circle cx="350" cy="336" r="78" fill="#F2673D"/>
+  <path d="M309 340L341 373L401 300" stroke="white" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="274" y="522" fill="white" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="42" font-weight="700">电子名片</text>
+  <text x="274" y="581" fill="#D7CBC4" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="500">客户触达 / 服务介绍 / 微信承接</text>
+  <text x="616" y="312" fill="#2F211D" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="64" font-weight="700">保险顾问名片页</text>
+  <text x="620" y="394" fill="#766C66" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="30" font-weight="500">统一个人介绍、服务范围和客户咨询入口。</text>
+  <rect x="620" y="474" width="430" height="22" rx="11" fill="#EADBD2"/>
+  <rect x="620" y="532" width="310" height="22" rx="11" fill="#EADBD2"/>
+  <rect x="620" y="610" width="180" height="58" rx="16" fill="#2F211D"/>
+  <text x="656" y="648" fill="#FFFDFC" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="24" font-weight="600">微信咨询</text>
+  <defs>
+    <filter id="shadow" x="132" y="136" width="1136" height="640" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="16" stdDeviation="20" flood-color="#2F211D" flood-opacity=".12"/>
+    </filter>
+  </defs>
+</svg>

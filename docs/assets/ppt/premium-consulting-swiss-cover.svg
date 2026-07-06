@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">高端咨询策略演示 PPT 封面</title>
+  <desc id="desc">暖白色高端咨询风格 PPT 封面。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fbf6f0"/>
+      <stop offset="1" stop-color="#efe1d8"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#2d211c"/>
+      <stop offset="1" stop-color="#ef7048"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="30" stdDeviation="38" flood-color="#3a2a23" flood-opacity=".13"/>
+    </filter>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1320" cy="166" r="260" fill="#ef7048" opacity=".09"/>
+  <circle cx="230" cy="720" r="280" fill="#d8d1ff" opacity=".18"/>
+  <g filter="url(#shadow)">
+    <rect x="160" y="116" width="1280" height="668" rx="34" fill="#fffaf6" opacity=".82"/>
+    <path d="M250 224h220" stroke="url(#line)" stroke-width="7" stroke-linecap="round"/>
+    <text x="250" y="330" fill="#2d211c" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="86" font-weight="600">好 PPT 不是美化</text>
+    <text x="250" y="434" fill="#2d211c" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="86" font-weight="600">是帮你赢下判断</text>
+    <text x="252" y="525" fill="#746a64" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="500" letter-spacing="5">PREMIUM CONSULTING SAMPLE DECK</text>
+    <text x="252" y="610" fill="#746a64" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="32">策略先于设计，设计服务决策。</text>
+    <g transform="translate(1115 538)">
+      <rect width="210" height="94" rx="47" fill="#2d211c"/>
+      <text x="105" y="59" text-anchor="middle" fill="#fff8f1" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="700">PPTX</text>
+    </g>
+  </g>
+</svg>
