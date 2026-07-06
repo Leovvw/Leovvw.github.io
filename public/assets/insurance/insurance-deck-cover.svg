@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <defs>
+    <linearGradient id="paper" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#fffdfb"/>
+      <stop offset="1" stop-color="#f2e4dc"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="#f5ebe5"/>
+  <rect x="78" y="66" width="1444" height="868" rx="34" fill="url(#paper)" stroke="#ead9cf" stroke-width="2"/>
+  <path d="M78 716C322 600 456 684 678 558C898 434 936 226 1190 206C1325 196 1440 246 1522 300V934H78V716Z" fill="#ead8ce"/>
+  <circle cx="1226" cy="286" r="126" fill="#2f211d"/>
+  <circle cx="1226" cy="286" r="82" fill="#f2673d"/>
+  <circle cx="1226" cy="286" r="36" fill="#fffdfb"/>
+  <text x="150" y="156" fill="#766c66" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="25" font-weight="600">ANLAN ADVISORY / 保险行业样张</text>
+  <text x="150" y="374" fill="#2f211d" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="86" font-weight="700">家庭保障方案说明</text>
+  <text x="150" y="478" fill="#2f211d" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="86" font-weight="700">PPT 视觉系统</text>
+  <text x="154" y="570" fill="#766c66" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="32" font-weight="500">产品结构 / 保障利益 / 客户沟通话术</text>
+  <rect x="154" y="674" width="310" height="76" rx="16" fill="#2f211d"/>
+  <text x="194" y="722" fill="#fffdfb" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="28" font-weight="700">保险产品 PPT</text>
+  <text x="1278" y="820" fill="#a99a92" font-family="Arial, sans-serif" font-size="34" font-weight="700">01 / 06</text>
+</svg>

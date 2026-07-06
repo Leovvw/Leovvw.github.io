@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">AI studio visual system</title>
+  <desc id="desc">A warm abstract studio interface with video frames, poster sheets, and presentation panels.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7ded2"/>
+      <stop offset="0.52" stop-color="#fff8f0"/>
+      <stop offset="1" stop-color="#d8f0eb"/>
+    </linearGradient>
+    <linearGradient id="coral" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff9c6d"/>
+      <stop offset="1" stop-color="#f2673d"/>
+    </linearGradient>
+    <linearGradient id="teal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#213138"/>
+      <stop offset="1" stop-color="#39615f"/>
+    </linearGradient>
+    <linearGradient id="lilac" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ebe6ff"/>
+      <stop offset="1" stop-color="#c3b8ff"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="28" stdDeviation="28" flood-color="#2b211d" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect width="1400" height="900" fill="url(#bg)"/>
+  <path d="M830 105c214 4 416 142 408 324-9 204-245 342-463 350-228 8-448-117-467-312-19-201 284-366 522-362Z" fill="#ffffff" opacity="0.58"/>
+  <g filter="url(#shadow)">
+    <rect x="688" y="122" width="430" height="274" rx="24" fill="#171414"/>
+    <rect x="714" y="152" width="378" height="198" rx="16" fill="url(#teal)"/>
+    <path d="M760 292c52-80 96-107 132-80 44 33 71 15 101-39 34 50 60 88 78 115v42H760Z" fill="#f5b85b"/>
+    <circle cx="785" cy="190" r="32" fill="#f2673d"/>
+    <rect x="714" y="363" width="144" height="10" rx="5" fill="#f7eee8" opacity="0.78"/>
+    <rect x="874" y="363" width="82" height="10" rx="5" fill="#f7eee8" opacity="0.32"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="894" y="434" width="260" height="344" rx="22" fill="#ffffff"/>
+    <rect x="922" y="462" width="204" height="236" rx="18" fill="url(#coral)"/>
+    <circle cx="987" cy="540" r="52" fill="#fff8f0" opacity="0.86"/>
+    <path d="M924 654c76-72 139-83 197-31v75H924Z" fill="#213138"/>
+    <rect x="922" y="720" width="142" height="11" rx="5.5" fill="#171414"/>
+    <rect x="922" y="742" width="92" height="9" rx="4.5" fill="#6f6761"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="482" y="372" width="346" height="238" rx="24" fill="#ffffff"/>
+    <rect x="512" y="404" width="120" height="150" rx="16" fill="url(#lilac)"/>
+    <rect x="654" y="404" width="142" height="18" rx="9" fill="#213138"/>
+    <rect x="654" y="442" width="110" height="12" rx="6" fill="#6f6761" opacity="0.65"/>
+    <rect x="654" y="476" width="132" height="12" rx="6" fill="#6f6761" opacity="0.32"/>
+    <rect x="654" y="516" width="86" height="38" rx="12" fill="#f2673d"/>
+  </g>
+  <g opacity="0.92">
+    <rect x="270" y="184" width="232" height="156" rx="20" fill="#ffffff" filter="url(#shadow)"/>
+    <rect x="294" y="210" width="184" height="86" rx="14" fill="#213138"/>
+    <path d="M366 235v37l34-18-34-19Z" fill="#f5b85b"/>
+    <rect x="294" y="312" width="108" height="9" rx="4.5" fill="#171414"/>
+  </g>
+  <g fill="none" stroke="#213138" stroke-width="3" opacity="0.18">
+    <path d="M180 676c118-70 214-75 289-14s163 56 263-15"/>
+    <path d="M1011 113c80 42 133 101 159 178"/>
+  </g>
+</svg>

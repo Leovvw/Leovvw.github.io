@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <rect width="1600" height="1000" fill="#f5ebe5"/>
+  <rect x="80" y="70" width="1440" height="860" rx="34" fill="#fffdfb" stroke="#ead9cf" stroke-width="2"/>
+  <text x="150" y="158" fill="#766c66" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="25" font-weight="600">ANLAN ADVISORY / 产品结构页样张</text>
+  <text x="150" y="258" fill="#2f211d" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="66" font-weight="700">把保险产品拆成客户能理解的三层结构</text>
+  <text x="150" y="326" fill="#766c66" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="28">保障、缴费、权益分别说明，减少信息压力。</text>
+  <g transform="translate(150 430)">
+    <rect width="360" height="300" rx="24" fill="#f6eee8" stroke="#ead9cf"/>
+    <circle cx="70" cy="74" r="34" fill="#f2673d"/>
+    <text x="42" y="85" fill="white" font-family="Arial" font-size="32" font-weight="700">01</text>
+    <text x="42" y="162" fill="#2f211d" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="38" font-weight="700">保障范围</text>
+    <text x="42" y="222" fill="#766c66" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="24">医疗 / 重疾 / 意外</text>
+  </g>
+  <g transform="translate(620 430)">
+    <rect width="360" height="300" rx="24" fill="#f6eee8" stroke="#ead9cf"/>
+    <circle cx="70" cy="74" r="34" fill="#2f211d"/>
+    <text x="42" y="85" fill="white" font-family="Arial" font-size="32" font-weight="700">02</text>
+    <text x="42" y="162" fill="#2f211d" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="38" font-weight="700">缴费方式</text>
+    <text x="42" y="222" fill="#766c66" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="24">预算 / 年限 / 灵活度</text>
+  </g>
+  <g transform="translate(1090 430)">
+    <rect width="360" height="300" rx="24" fill="#f6eee8" stroke="#ead9cf"/>
+    <circle cx="70" cy="74" r="34" fill="#f2673d"/>
+    <text x="42" y="85" fill="white" font-family="Arial" font-size="32" font-weight="700">03</text>
+    <text x="42" y="162" fill="#2f211d" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="38" font-weight="700">权益说明</text>
+    <text x="42" y="222" fill="#766c66" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="24">理赔 / 增值 / 服务</text>
+  </g>
+  <path d="M510 580H620M980 580H1090" stroke="#f2673d" stroke-width="6" stroke-linecap="round"/>
+  <text x="1278" y="840" fill="#a99a92" font-family="Arial, sans-serif" font-size="34" font-weight="700">02 / 06</text>
+</svg>

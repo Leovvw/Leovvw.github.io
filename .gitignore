@@ -1,0 +1,14 @@
+node_modules
+dist
+.DS_Store
+*.local
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+.od-skills/
+*.zip
+*.bak.*
+critique.json
+mr*.png
+mr*.mp4
+参考图/

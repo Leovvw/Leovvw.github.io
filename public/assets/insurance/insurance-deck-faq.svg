@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <rect width="1600" height="1000" fill="#f5ebe5"/>
+  <rect x="80" y="70" width="1440" height="860" rx="34" fill="#fffdfb" stroke="#ead9cf" stroke-width="2"/>
+  <text x="150" y="158" fill="#766c66" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="25" font-weight="600">ANLAN ADVISORY / FAQ 页样张</text>
+  <text x="150" y="258" fill="#2f211d" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="72" font-weight="700">客户常问问题，先替顾问讲清楚</text>
+  <g transform="translate(150 374)">
+    <rect width="610" height="150" rx="22" fill="#f6eee8" stroke="#ead9cf"/>
+    <text x="34" y="58" fill="#f2673d" font-family="Arial" font-size="30" font-weight="700">Q1</text>
+    <text x="98" y="62" fill="#2f211d" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="32" font-weight="700">预算有限，先配置什么？</text>
+    <text x="98" y="108" fill="#766c66" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23">先覆盖高风险，再考虑储蓄与增值服务。</text>
+  </g>
+  <g transform="translate(840 374)">
+    <rect width="610" height="150" rx="22" fill="#f6eee8" stroke="#ead9cf"/>
+    <text x="34" y="58" fill="#f2673d" font-family="Arial" font-size="30" font-weight="700">Q2</text>
+    <text x="98" y="62" fill="#2f211d" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="32" font-weight="700">保额应该怎么判断？</text>
+    <text x="98" y="108" fill="#766c66" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23">结合家庭责任、收入周期和现金流测算。</text>
+  </g>
+  <g transform="translate(150 584)">
+    <rect width="610" height="150" rx="22" fill="#f6eee8" stroke="#ead9cf"/>
+    <text x="34" y="58" fill="#f2673d" font-family="Arial" font-size="30" font-weight="700">Q3</text>
+    <text x="98" y="62" fill="#2f211d" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="32" font-weight="700">理赔流程复杂吗？</text>
+    <text x="98" y="108" fill="#766c66" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23">用流程图说明资料、节点和顾问协助范围。</text>
+  </g>
+  <g transform="translate(840 584)">
+    <rect width="610" height="150" rx="22" fill="#2f211d"/>
+    <text x="34" y="58" fill="#f2673d" font-family="Arial" font-size="30" font-weight="700">TIP</text>
+    <text x="98" y="62" fill="#fffdfb" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="32" font-weight="700">把异议变成信任节点</text>
+    <text x="98" y="108" fill="#d8cbc4" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23">每个问题都对应一个可视化解释页面。</text>
+  </g>
+  <text x="1278" y="840" fill="#a99a92" font-family="Arial, sans-serif" font-size="34" font-weight="700">03 / 06</text>
+</svg>

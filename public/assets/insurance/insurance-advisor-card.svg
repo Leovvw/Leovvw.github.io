@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <rect width="1400" height="900" fill="#f5ebe5"/>
+  <circle cx="230" cy="190" r="160" fill="#f2673d" fill-opacity=".12"/>
+  <circle cx="1188" cy="702" r="188" fill="#d9d2ff" fill-opacity=".32"/>
+  <rect x="160" y="154" width="1080" height="592" rx="38" fill="#fffdfb" stroke="#ead9cf" stroke-width="2"/>
+  <rect x="160" y="154" width="362" height="592" rx="38" fill="#2f211d"/>
+  <circle cx="341" cy="316" r="82" fill="#f2673d"/>
+  <text x="306" y="342" fill="#fffdfb" font-family="Arial" font-size="72" font-weight="700">林</text>
+  <text x="262" y="518" fill="#fffdfb" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="44" font-weight="700">林知远</text>
+  <text x="238" y="582" fill="#d8cbc4" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="25">安澜保障顾问</text>
+  <text x="616" y="266" fill="#766c66" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="25" font-weight="600">电子名片样张 / Advisor Profile</text>
+  <text x="616" y="360" fill="#2f211d" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="62" font-weight="800">保险顾问个人主页</text>
+  <text x="620" y="438" fill="#766c66" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="29">服务范围、专业介绍和微信咨询入口统一承接。</text>
+  <rect x="620" y="526" width="176" height="54" rx="14" fill="#f6eee8"/>
+  <text x="650" y="562" fill="#2f211d" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="700">家庭保障</text>
+  <rect x="820" y="526" width="176" height="54" rx="14" fill="#f6eee8"/>
+  <text x="850" y="562" fill="#2f211d" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="700">养老规划</text>
+  <rect x="620" y="612" width="230" height="66" rx="16" fill="#2f211d"/>
+  <text x="668" y="655" fill="#fffdfb" font-family="PingFang SC, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="26" font-weight="700">微信咨询</text>
+  <rect x="1036" y="516" width="132" height="132" rx="18" fill="#f6eee8" stroke="#ead9cf"/>
+  <path d="M1060 540H1096V576H1060ZM1110 540H1144V574H1110ZM1060 590H1096V624H1060ZM1114 594H1146V626H1114Z" fill="#2f211d"/>
+  <text x="1048" y="690" fill="#a99a92" font-family="Arial, sans-serif" font-size="26" font-weight="700">06 / 06</text>
+</svg>
